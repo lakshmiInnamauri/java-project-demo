@@ -5,6 +5,7 @@ public class addition {
         int shils =100;
         int shils2= 200;
         int shils3 = 300;
+        int shils4 = 400;
         int addition = (shils +shils2);
         int addition1 = (shils2+ shils3);
         System.out.println(addition);
