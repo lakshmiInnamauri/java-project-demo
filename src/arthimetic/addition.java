@@ -13,5 +13,15 @@ public class addition {
 
     }
 
+    public static class addittion {
+        public static void main(String[] args) {
+            int a =6;
+            int b= 7;
+            System.out.println("print a is 6");
+
+        }
+
+
+    }
 }
 
