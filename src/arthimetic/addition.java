@@ -8,6 +8,7 @@ public class addition {
         int shils4 = 400;
         int addition = (shils +shils2);
         int addition1 = (shils2+ shils3);
+        int addition2 = (shils+shils3);
         System.out.println(addition);
         System.out.println(addition1);
 
